@@ -4,10 +4,10 @@
 
 ### 목차
 
-[Operating system](https://github.com/crongcm/computer-science/tree/main/os)<br/>
-[Data Structure](https://github.com/crongcm/computer-science/tree/main/data%20structure)<br/>
-[Database](https://github.com/crongcm/computer-science/tree/main/database)<br/>
-[Network](https://github.com/crongcm/computer-science/tree/main/network)<br/>
+[Operating system](https://github.com/crongcm/computer-science/blob/main/os/README.md)<br/>
+[Data Structure](https://github.com/crongcm/computer-science/tree/main/data%20structure/README.md)<br/>
+[Database](https://github.com/crongcm/computer-science/tree/main/database/README.md)<br/>
+[Network](https://github.com/crongcm/computer-science/tree/main/network/README.md)<br/>
 
 ### Reference
 [쉬운코드](https://www.youtube.com/@ez.)<br/>
