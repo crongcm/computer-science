@@ -321,3 +321,6 @@ Car santafe = new Car();
 ## 메서드(method)
 - 객체 혹은 클래스에 종속되어 임무를 수행하는 코드들의 집합
 - 클래스나 객체의 상태 정보에 접근도 가능
+
+### Reference
+[쉬운코드](https://www.youtube.com/@ez.)
