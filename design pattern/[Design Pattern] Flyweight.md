@@ -9,7 +9,7 @@
 - 단점
     - 코드의 복잡도가 증가한다.
 
-![flyweight](design%20pattern/image/flyweight.png)
+![flyweight](design pattern/image/flyweight.png)
 
 ```java
 public final class Font {
