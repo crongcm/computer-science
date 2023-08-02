@@ -12,13 +12,13 @@
 
 ## Socket
     
-<img src="/image/socket%201.png" width="700">
+<img src="image/socket%201.png" width="700">
 
-<img src="/image/socket%202.png" width="700">
+<img src="image/socket%202.png" width="700">
 
-<img src="/image/socket%203.png" width="700">
+<img src="image/socket%203.png" width="700">
 
-<img src="/image/socket%204.png" width="700">
+<img src="image/socket%204.png" width="700">
 
 ### TCP socket 동작 방식
 
@@ -30,7 +30,7 @@
 6. 또 새로운 별도의 소켓을 만들고 해당 소켓으로 클라이언트와 데이터를 주고 받는다
 7. 세 개의 TCP 소켓이 모두 같은 IP address, port number를 가진다
 
-<img src="/image/socket%205.png" width="700">
+<img src="image/socket%205.png" width="700">
 
 - connection 연결 요청 : listening socket으로 연결 요청
 - connection이 성립된 이후 : <src IP, src port, dest IP, dest port>로 socket 식별
@@ -39,7 +39,7 @@
 
 결론 <src IP, src port, dest IP, dest port>로 socket 식별
 
-<img src="/image/socket%206.png" width="700">
+<img src="image/socket%206.png" width="700">
 
 ### Port number
 
@@ -50,7 +50,7 @@
     - e.g.) MySQL DB(3306), Apache tomcat server(8080)
 - 49152 ~ 65535 : dynamic ports (등록 안된 번호, 임시로 혹은 자동 할당될 때 사용)
 
-<img src="/image/socket%207.png" width="700">
+<img src="image/socket%207.png" width="700">
 
 ## Reference
 [쉬운코드](https://www.youtube.com/@ez.)
